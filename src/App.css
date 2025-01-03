@@ -52,6 +52,7 @@ body {
 
 .form h2 {
   margin-bottom: 20px;
+  font-size: larger;
 }
 
 .form input {
@@ -68,6 +69,7 @@ body {
   border: none;
   border-radius: 5px;
   cursor: pointer;
+  margin-bottom: 10px;
 }
 
 .form a {
@@ -78,4 +80,4 @@ body {
 }
 
 .form p {
-  text-align: center;} 
+  text-align: center;}
