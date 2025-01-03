@@ -5,7 +5,7 @@ body {
   align-items: center;
   height: 100vh;
   margin: 0;
-  background-color: #0C67A0;
+  background-color: #f2f2f2;
 }
 
 .container {
@@ -18,10 +18,10 @@ body {
 
 .form-container {
   background-color: white;
-  padding: 20px;
+  padding: 30px;
   border-radius: 10px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-  width: 300px;
+  width: 500px;
 }
 
 .form-toggle {
@@ -67,7 +67,7 @@ body {
   background-color:#033452;
   color: white;
   border: none;
-  border-radius: 5px;
+  border-radius: 10px;
   cursor: pointer;
   margin-bottom: 10px;
 }
